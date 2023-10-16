@@ -12,4 +12,4 @@ Information for this challenge was sourced from the following: <br>
 1. https://openweathermap.org/<br>
 2. https://www.geoapify.com/<br>
 3. Map data from OpenStreetMap<br>
-4. '.strftime' information used to convert timestamps from https://docs.python.org/3/library/datetime.html
+4. `.strftime` information used to convert timestamps from https://docs.python.org/3/library/datetime.html
