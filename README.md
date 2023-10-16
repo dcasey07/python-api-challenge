@@ -8,7 +8,7 @@ After this information was analyzed, in the VacationPy code, the resulting data 
 
 ## Attributions
 
-In order to format the timestamps pulled from OpenWeather API, I used information from "https://docs.python.org/3/library/datetime.html" to learn about and use .strftime. Other information for this project was sourced from the following: \n
-"https://openweathermap.org/"\n
-"https://www.geoapify.com/"\n
-Map data from OpenStreetMap\n
+In order to format the timestamps pulled from OpenWeather API, I used information from "https://docs.python.org/3/library/datetime.html" to learn about and use .strftime. Other information for this project was sourced from the following: <br>
+"https://openweathermap.org/"<br>
+"https://www.geoapify.com/"<br>
+Map data from OpenStreetMap<br>
